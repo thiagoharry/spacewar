@@ -1,5 +1,7 @@
 # spacewar
 
+![Screenshot](http://www.nongnu.org/weaver/spacewar.png)
+
 This is a clone of DEC PDP-1's Spacewar!, one of the first computer games built in 1961.
 
 The game features an arena where two spaceships fight against each other. In the middle of the arena there's a star whose gravity attracts the spaceships and its projetiles. Anything that touches the star is destroyed. The space is warped, anything that goes too far at any direction appears again in the opposite direction.
