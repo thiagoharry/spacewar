@@ -6,7 +6,7 @@ This is a clone of DEC PDP-1's Spacewar!, one of the first computer games built 
 
 The game features an arena where two spaceships fight against each other. In the middle of the arena there's a star whose gravity attracts the spaceships and its projetiles. Anything that touches the star is destroyed. The space is warped, anything that goes too far at any direction appears again in the opposite direction.
 
-The game can be played by one or two players. Playing alone you fight against an AI. You need the X!!, ALSA and vorbis libraries to compile this game.
+The game can be played by one or two players. Playing alone you fight against an AI. You need the X11, ALSA and vorbis libraries to compile this game.
 
 The controls are:
 
