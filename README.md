@@ -15,3 +15,7 @@ The controls are:
 * Right Control: Teleports spaceship 1.
 * Left Control: Teleports spaceship 2.
 * Esc: Exit.
+
+If you want to read a tutorial explaining how this game was made using [Weaver Framework] (https://github.com/thiagoharry/old_weaver), check:
+
+http://www.nongnu.org/weaver/spacewar/spacewar.htm
